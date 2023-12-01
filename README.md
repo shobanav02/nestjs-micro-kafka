@@ -67,6 +67,7 @@ Nx comes with local caching already built-in (check your `nx.json`). On CI you m
 - Zookeeper
 - Kafka 
 
-> nx serve api-gateway
-> nx serve auth-microservice
-> nx serve payments-microservice
+// Run the following commands in the terminal
+- nx serve api-gateway
+- nx serve auth-microservice
+-  nx serve payments-microservice
