@@ -61,3 +61,12 @@ Nx comes with local caching already built-in (check your `nx.json`). On CI you m
 - [Join the community](https://nx.dev/community)
 - [Subscribe to the Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - [Follow us on Twitter](https://twitter.com/nxdevtools)
+
+
+// Set up Kafka locally and then run
+- Zookeeper
+- Kafka 
+
+> nx serve api-gateway
+> nx serve auth-microservice
+> nx serve payments-microservice
